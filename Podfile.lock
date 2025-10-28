@@ -1,3 +1,16 @@
-PODFILE CHECKSUM: 87a6a9e5aff9b65cb11f175c8d50645ce1cc6ad5
+PODS:
+  - HarfBuzz (8.5.0-local)
+
+DEPENDENCIES:
+  - HarfBuzz (from `.`)
+
+EXTERNAL SOURCES:
+  HarfBuzz:
+    :path: "."
+
+SPEC CHECKSUMS:
+  HarfBuzz: c0dc0c1b32e41cca2cbac1d8b450fde2856a6404
+
+PODFILE CHECKSUM: 1494f9a00ff7ae7232557586ea07039772f86187
 
 COCOAPODS: 1.16.2

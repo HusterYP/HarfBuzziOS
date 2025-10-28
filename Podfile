@@ -6,5 +6,6 @@ target 'HarfBuzziOS' do
   use_frameworks!
 
   # Pods for HarfBuzziOS
+  pod 'HarfBuzz', :path => '.'
 
 end
